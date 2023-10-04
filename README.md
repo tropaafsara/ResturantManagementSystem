@@ -1,2 +1,2 @@
 # ResturantManagementSystem
-JAVA, MSSQL
+JAVA, MSSQL, Netbeans
